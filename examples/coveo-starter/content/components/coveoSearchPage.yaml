@@ -2,7 +2,7 @@
 $schema: https://uniform.app/schemas/json-schema/component-definition/v1.json
 id: coveoSearchPage
 name: Coveo Search Page
-icon: screen
+icon: play-list-search
 parameters: []
 useTeamPermissions: true
 slots:
@@ -17,5 +17,5 @@ slots:
     inheritAllowedComponents: false
     patternsInAllowedComponents: false
 canBeComposition: true
-created: '2023-07-10T15:18:47.839923+00:00'
-updated: '2023-07-13T13:35:18.173247+00:00'
+created: '2023-07-18T22:36:16.114558+00:00'
+updated: '2023-07-18T22:37:02.013025+00:00'
